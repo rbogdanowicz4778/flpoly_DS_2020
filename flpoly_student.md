@@ -4,13 +4,14 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
+### Problem 1
+| CourseID     | Name Of Course          |Credits|
+|:-------------|:------------------------|-------|
+| **COP-2073** | _Intro to Data Science_ | 3     |
+|**CGS-1100C** | _Applications for Business_| 2|
+|**ECO-2013**  | _Macroeconomics_           | 3|
+| **FIN-2001** | _Intro to Finance_         | 3|
 
-- Intro to Business Finance
-
-- Macroeconomics
-
-- Applications for Business
 
 **Hobbies:**
 
